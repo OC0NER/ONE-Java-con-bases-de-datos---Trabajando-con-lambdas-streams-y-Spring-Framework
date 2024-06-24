@@ -36,7 +36,6 @@
 ### Consumo de APIs externas:
 - Integración de aplicaciones Spring con APIs REST
 - Manejo de respuestas y datos provenientes de APIs
-Aplicación práctica:
   
 ## 🖥️ 🚧 Proyecto final del curso  🏗️ 
 El proyecto final consiste en desarrollar una aplicación que consuma una API de libros, similar a lo realizado con la aplicación ScreenMatch, pero en un contexto diferente.
@@ -49,5 +48,5 @@ El proyecto final consiste en desarrollar una aplicación que consuma una API de
 - Realizar un tratamiento de los datos obtenidos, como limitar la cantidad de resultados, ordenar por número de descargas, buscar libros por título, etc.
 - Calcular estadísticas sobre los libros, como la media de descargas, el libro con más y menos descargas, etc.
 - Presentar toda esta información en la aplicación, de manera organizada y amigable para el usuario.
-- 
+  
 El objetivo es poner en práctica todo lo aprendido en el curso sobre lambdas, streams, Spring Framework, etc., en un proyecto diferente al de ScreenMatch, pero con características similares.
